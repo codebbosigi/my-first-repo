@@ -104,6 +104,19 @@ html 문서의 `<body>` 영역은 기본적으로 세 개의 구역으로 나눌
 1. `<header>`
 2. `<main>`
 - `<section>`
--`<h2>`
--`<p>`
+- `<h2>`
+- `<p>`
 3. `<footer>`
+
+---
+
+## CSS
+CSS: Cascading Style Sheet: 마크업 언어(HTML)가 실제 표시되는 방법을 기술하는 언어
+
+**HTML 문서는 건물(웹 페이지)의 골격을 만든다면, CSS는 건물 내부의 인테리어를 담당한다.**
+
+쉽게 말해서, HTML 요소들을 꾸며주고 레이아웃을 결정한다.
+
+태그 선택자, 클래스 선택자
+CSS 속성 (ex. color, text-align)
+
